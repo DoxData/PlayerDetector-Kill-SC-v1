@@ -4,7 +4,10 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 
 ![App_DoxData](https://github.com/user-attachments/assets/48be624c-add8-4a6c-a395-e6bd71c6bff3)
 
+![Captura de pantalla 2025-03-27 235826](https://github.com/user-attachments/assets/496eba96-f118-4a2d-9315-9eecc526b82d)
 
+
+![Captura de pantalla 2025-03-27 235920](https://github.com/user-attachments/assets/e45281e8-d488-4535-8508-035e928bf426)
 
 
 ---
