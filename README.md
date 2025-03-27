@@ -1,13 +1,9 @@
-
-https://github.com/user-attachments/assets/c76ce9f9-f501-4916-9f57-febb0b47b7ae
 # PlayerDetector-Kill-SC¡Hola, ciudadanos del 'verso!  
 
 Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mantenerte un paso adelante.  
-‎ ‎ ![App_DoxData](https://github.com/user-attachments/assets/2b502d32-efe1-450c-a89b-d604637d560e)
-![Captura de pantalla 2025-03-27 235826](https://github.com/user-attachments/assets/7a9769b9-ffc6-4db1-b3fb-e94cc9fdfaec)
 
+![App_DoxData](https://github.com/user-attachments/assets/48be624c-add8-4a6c-a395-e6bd71c6bff3)
 
-https://github.com/user-attachments/assets/55b2f5cc-ac64-4e05-a83c-5a40db7c90d7
 
 
 
