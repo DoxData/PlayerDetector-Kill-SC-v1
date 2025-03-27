@@ -1,0 +1,15 @@
+
+  **LICENCIA PROPIETARIA** 
+Copyright (c) [2025] [David]
+
+El código fuente de este proyecto se proporciona para su inspección,
+pero queda estrictamente prohibido:
+
+- Modificar el código
+- Redistribuir el software
+- Usar el código en otros proyectos
+
+Los ejecutables compilados pueden distribuirse libremente manteniendo
+esta licencia y atribución al autor original.
+
+Para licencias comerciales o colaboraciones, contactar al autor.

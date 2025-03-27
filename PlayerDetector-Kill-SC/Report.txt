@@ -1,0 +1,42 @@
+
+Para reportar a un jugador en Star Citizen, tienes dos opciones principales:
+
+1️ Desde el juego:
+Si el usuario está cometiendo una infracción en tiempo real, puedes reportarlo dentro del juego usando el sistema de reportes:
+1. Abre el chat global (F12 para abrirlo si está oculto)
+2. Escribe /report [nombre del usuario] [motivo] y envía el mensaje
+Ejemplo:
+  /report Player123 Acoso en el chat
+
+2️ A través de un ticket en el soporte:
+Si el problema es más grave (trampas, acoso persistente, comportamiento tóxico, etc.), debes enviar un ticket en la web de soporte de RSI: Pulsando el boton REPORTAR 
+de la Aplicación te enlazara directamente a la Web de soporte.
+  
+El tipo de ticket más adecuado es Gameplay Issues, ya que se trata de un problema dentro del juego.
+En el ticket, incluye:
+- Nombre del jugador infractor
+- Fecha y hora del incidente
+- Descripción del problema
+- Capturas de pantalla o videos como evidencia (si es posible)
+
+Si es algo muy grave como trampas o explotación de bugs, también puedes mencionarlo en:
+- Los foros oficiales
+- El Discord oficial de Star Citizen
+
+Enlaces útiles relacionados con Star Citizen:
+
+1. [Star Citizen Wiki](https://starcitizen.tools/Community_Links): Una fuente completa de información sobre el juego, incluyendo guías y enlaces comunitarios.
+
+2. [Star Citizen Tools](https://starcitizen.today/helpfullinks/): Una wiki especializada que ofrece herramientas y datos sobre el universo de Star Citizen.
+
+3. [Starship 42](https://starcitizen.today/helpfullinks/): Explora y gestiona tu flota de naves con herramientas interactivas.
+
+4. [Erkul Games](https://starcitizen.today/helpfullinks/): Optimiza tus configuraciones de naves y experimenta con diferentes equipos.
+
+5. [SC Trade Tools](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Herramientas para el comercio dentro del juego.
+
+6. [Galactic Logistics](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Información sobre rutas de comercio y minería.
+
+7. [RSI Main Page](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Página oficial de Roberts Space Industries para noticias y actualizaciones.
+
+Espero que encuentres estos enlaces útiles para tu aventura en el universo de Star Citizen.🚀
