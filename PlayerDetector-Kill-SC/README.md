@@ -67,4 +67,6 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 ```
 
 ¡Nos vemos en las trincheras del 'verso!  
-— DoxData  
+— DoxData
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
