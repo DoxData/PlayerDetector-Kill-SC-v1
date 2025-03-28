@@ -1,4 +1,4 @@
-using Newtonsoft.Json; // A�adir directiva using para Newtonsoft.Json
+using Newtonsoft.Json; // Añadir directiva using para Newtonsoft.Json
 using System.IO;
 using System.Media;
 
@@ -53,3 +53,5 @@ namespace PlayerDetector_Kill_SC
         }
     }
 }
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
