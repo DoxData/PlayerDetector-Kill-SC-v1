@@ -2,7 +2,7 @@
 
 ```
 # Código de Conducta de PlayerDetector Kill SC  
-*Versión 2.1 - Adaptado para Comunidades Gaming*  
+*Versión .v1 - Adaptado para Comunidades Gaming*  
 
 ## 👥 Nuestro Compromiso  
 En el universo de Star Citizen y en nuestro proyecto, valoramos:  
