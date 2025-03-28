@@ -13,3 +13,5 @@ Los ejecutables compilados pueden distribuirse libremente manteniendo
 esta licencia y atribución al autor original.
 
 Para licencias comerciales o colaboraciones, contactar al autor.
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
