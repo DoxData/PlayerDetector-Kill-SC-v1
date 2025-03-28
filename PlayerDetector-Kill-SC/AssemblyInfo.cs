@@ -9,4 +9,5 @@ using System.Windows;
                                                 // app, or any theme specific resource dictionaries)
 )]
 
-
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
