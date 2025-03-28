@@ -68,8 +68,9 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 
 ¡Nos vemos en las trincheras del 'verso!  
 — DoxData
-// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
-// Prohibido su uso/modificación sin autorización expresa.
+
 ## 📜 Licencia  
 Este código es visible para transparencia técnica, pero su uso está restringido.  
-Para acuerdos comerciales o consultas legales: legal@doxdata-tools.com  
+Para acuerdos comerciales o consultas legales: legal@doxdata-tools.com
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
