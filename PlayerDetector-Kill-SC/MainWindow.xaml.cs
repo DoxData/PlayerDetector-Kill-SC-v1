@@ -1063,3 +1063,5 @@ Espero que encuentres estos enlaces útiles para tu aventura en el universo de S
         // Deshabilitar aquí las funciones que requieren permisos de administrador
     }
 }
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
