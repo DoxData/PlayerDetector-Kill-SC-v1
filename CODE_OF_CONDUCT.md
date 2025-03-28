@@ -1,6 +1,6 @@
-Aquí tienes una adaptación del Código de Conducta específicamente para **PlayerDetector Kill SC**, con ajustes para herramientas de gaming y comunidades técnicas de Star Citizen:
 
-```markdown
+
+```
 # Código de Conducta de PlayerDetector Kill SC  
 *Versión 2.1 - Adaptado para Comunidades Gaming*  
 
