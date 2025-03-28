@@ -57,3 +57,5 @@ namespace PlayerDetector_Kill_SC
         }
     }
 }
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
