@@ -36,6 +36,8 @@ Enlaces útiles relacionados con Star Citizen:
 5. [SC Trade Tools](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Herramientas para el comercio dentro del juego.
 
 6. [Galactic Logistics](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Información sobre rutas de comercio y minería.
+// Copyright (c) 2024 DoxData. Propiedad exclusiva. 
+// Prohibido su uso/modificación sin autorización expresa.
 
 7. [RSI Main Page](https://www.reddit.com/r/starcitizen/comments/18pvjes/list_of_useful_star_citizen_links_now_with_a/): Página oficial de Roberts Space Industries para noticias y actualizaciones.
 
