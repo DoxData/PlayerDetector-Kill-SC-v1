@@ -1,5 +1,5 @@
 
-# PlayerDetector-Kill-SC-v1-ES
+# PlayerDetector-Kill-SC
 
 ¡Hola, ciudadanos del 'verso!  
 Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️,
